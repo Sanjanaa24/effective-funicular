@@ -1,5 +1,6 @@
 # Crop Recommendation - Top Crops
 
+
 A predictive model for forecasting demand and supply information of top crops.
 The processed system is to predict the type of crop to be grown in a particular season based on the requirements and can be used to help farmers to identify the crops easily by just providing their soil fertility information based on previous testings. The system provides the information about the following requirements:
 
@@ -14,3 +15,5 @@ The processed system is to predict the type of crop to be grown in a particular 
 5) Rainfall: In this module the system gets us the information about the rainfall requirement for a particular crop through out its growth for the healthy yield. When rain is plentiful, crops can absorb the water and nutrients they need, and the soil around them remains moist and fertile. This allows the plants to grow and produce large, healthy yields.
 
 6) Label: In this module the system and the datasets represents the label as types of crop (Rice, Maize, Chickpea, Kidney beans, Pigeonpeas, Mothbeans, Mungbean, Blackgram, Lentil, Pomegranate, Banana, Mango, Grapes, Watermelon, Muskmelon, Apple, Orange, Papaya, Coconut, Cotton, Jute, Coffee).
+
+7) Finally the accuracy rate obtained by the classification report made is 97/100.
